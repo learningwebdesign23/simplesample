@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<head> 
+    <meta charset="UTF-8">
+<title> About Me!</title>
+</head>
+<body>
+    <body style="background-color:mintcream;">
+    <main>
+     <p> <h1>Janani Sridharan</h1>
+        <br>
+        <a href="https://www.behance.net/jananisridharan02">One</a href>
+        <a href="">Two</ahref>
+        <a href="">Three</a href>
+        <a href="https://www.behance.net/jananisridharan02">Work</a href>
+    </p>
+    <p>
+        <h2>Favourite Foods</h2>
+        <ul>
+            <li>Cheese</li>
+            <li>Potato</li>
+            <li>Noodles</li>
+            <li>Dark Chocolate</li>
+            </ul>
+    </p>
+    <p>
+        <h2>Achievements</h2> </p>
+        <p>
+            <label for="file">Progress in this course (100%)</label>
+            <progress id="file" value="100" max="100">100%</progress>
+        </p>
+        <p>
+            <label for="file">Progress in this specialisation capstone (20%)</label>
+            <progress id="file" value="20" max="100">20%</progress>
+        </p>
+        <p>
+            <label for="file">Progress in life goals (15%)</label>
+            <progress id="file" value="15" max="100">15%</progress>
+        </p>
+        <h2>More about me</h2>
+        <p>
+            <details>
+                <summary>My Childhood</summary>
+                <p>I grew up in Chennai, India mostly. I've travelled to a lot of places around the world and had so many amazing experiences, 
+                    met more amazing people, the memories of which I still cherish.</details>
+        </p>
+        
+    
+    </main>
+    <footer>
+        <img src="http://www.intro-webdesign.com/images/newlogo.png" alt="Web design for everyone">
+        <p>This page was created by Janani Sridharan and Colleen Van Lent. To learn more about web design, visit <a href="http://www.intro-webdesign.com">Intro to Web design</a href></p>
+    </footer>
+</body>
+
